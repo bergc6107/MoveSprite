@@ -5,7 +5,7 @@
  */
 package gdx.MoveSprite;
 import com.badlogic.gdx.Game;
-
+// Grondin typed this
 /**
  *
  * @author G
